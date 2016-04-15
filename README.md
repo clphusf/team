@@ -1,4 +1,4 @@
-# [WaderTG](https://telegram.me/WaderTG)
+# [DIMON TEAM](https://telegram.me/DIMON_TEAM)
 
 # Features
 
@@ -436,8 +436,8 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 
 # Let's install the bot.
 cd $HOME
-git clone https://github.com/groupforspeed/WaderTG.git
-cd WaderTG
+git clone https://github.com/groupforspeed/TEAM.git
+cd TEAM
 chmod +x launchfix2.sh
 chmod +x launch.sh
 chmod +x autolaunch.sh
@@ -448,6 +448,6 @@ cd bin
 ./luarocks-5.2 install lub
 ./luarocks-5.2 install luaexpat
 cd $HOME
-cd WaderTG
+cd TEAM
 ./launchfix2.sh install
 ./autolaunch.sh
